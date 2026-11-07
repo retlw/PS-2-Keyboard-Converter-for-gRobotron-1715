@@ -1,6 +1,6 @@
 # PS/2 Keyboard Converter for gRobotron 1715
 
-A simple PS/2 keyboard-to-Robotron 1715 converter based on the PIC12F683.
+A simple PS/2 keyboard-to-Robotron 1715 converter based on the PIC12F683. Support for ASCII control characters. The Left Alt+Shift key combination functions similarly to the SI/SO control characters for switching character sets.
 
 [12f683_ps2_to_r1715](firmware/12f683_ps2_to_r1715.hex)
 
