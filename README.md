@@ -4,6 +4,9 @@ A simple PS/2 keyboard-to-Robotron 1715 converter based on the PIC12F683. Suppor
 
 [12f683_ps2_to_r1715](firmware/12f683_ps2_to_r1715.hex)
 
+### Update
+Fixed: The digits 3 and 4 were swapped. The `>` symbol was not being processed when the Shift key was held down.
+
 
 ## Wiring
 
