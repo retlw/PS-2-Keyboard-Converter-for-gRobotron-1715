@@ -8,6 +8,8 @@ A simple PS/2 keyboard-to-Robotron 1715 converter based on the PIC12F683. Suppor
 Fixed: The digits 3 and 4 were swapped. The `>` symbol was not being processed when the Shift key was held down.
 A major bug with F7 has been fixed, and the issue with Print Screen (F13) has also been resolved. A bug remains where the Pause key (F15) is sent twice; I’ll look into that later, if I feel like it.
 
+Observations: The 3 and 9 keys on the numpad are swapped on different keyboards.
+
 ## Wiring
 
 All you will need is a 12F683 and four 4.7kΩ resistors.
