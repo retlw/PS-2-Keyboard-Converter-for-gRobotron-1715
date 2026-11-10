@@ -20,3 +20,10 @@ All you will need is a 12F683 and four 4.7kΩ resistors.
 The F13, F14, and F15 keys, along with several others, are located in a separate block of additional keys.
 
 ![Additional keys](images/ext_keys.png)
+
+### Installing the board
+![board](images/board.jpg)
+
+![install](images/install.jpg)
+
+![back](images.back.jpg)
