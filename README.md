@@ -26,4 +26,4 @@ The F13, F14, and F15 keys, along with several others, are located in a separate
 
 ![install](images/install.jpg)
 
-![back](images.back.jpg)
+![back](images/back.jpg)
